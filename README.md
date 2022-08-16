@@ -14,7 +14,7 @@ There was some fear and trepidation involved in this process, but I decided to t
 This site is the beginning stages of my journey and I hope you follow along in my adventure!
 
 Author:
-Evan Oyster: Full Stack Developer
+Evan Oyster - Full Stack Developer
 
 LinkedIn: (will make)
 
