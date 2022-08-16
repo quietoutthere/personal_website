@@ -1,32 +1,21 @@
-body {
-    background: white;
+.navbar {
+    background-color: black;
+    margin: 10px;
+    
+    }
+
+.nav-link {
+    color:white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.greeting{
     text-align: center;
 }
 
-.container {
-    padding: 5%;
-}
-
-.nav {
-    background: black;
-    overflow: hidden;
-}
-
-nav {
-    float: left;
-    color: #f2f2f2;
-    padding: 10px;
-    text-decoration: none;
-    margin: 10px;
-    position: relative;
-}
-
-nav a {
-    text-decoration: none;
-    color: white;
-}
-
-.nav a:hover {
-    background-color:white;
+.nav-link:hover {
+    background-color: white;
     color: black;
+    margin: 10px;
 }
