@@ -15,5 +15,6 @@ This site is the beginning stages of my journey and I hope you follow along in m
 
 Author:
 Evan Oyster: Full Stack Developer
- LinkedIn: (will make)
+
+LinkedIn: (will make)
 
