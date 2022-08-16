@@ -1,5 +1,7 @@
 Simple_Personal_Website
 
+https://quietoutthere.github.io/personal_website/
+
 This is my first project that I created using HTML and CSS
 
 (Below is a screenshot of my homescreen)
